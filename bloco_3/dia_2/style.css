@@ -1,0 +1,33 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  ul{
+    background-color: darkblue;
+  }
+  .pul{
+    background-color: blue;
+    color: white;
+  }
+  p{
+    font-weight: 600;
+    font-size: 48px;
+    font-style: italic;
+    
+  }
+  body{
+    font-size: 16px;
+    
+    
+  }
+  #amarelo{
+    color: yellow;
+  }
+  #vermelho{
+    color: red;
+  }
+  #marrom{
+    color: brown;
+  }
